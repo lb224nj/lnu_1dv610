@@ -36,3 +36,18 @@ body {
   font-size: 500px;
   text-align: center;
 }
+
+#displayFact {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+
+#applicationTitle {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 50px;
+  color: darkorange;
+}

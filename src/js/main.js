@@ -13,9 +13,9 @@ if (user === '') {
  if (user.length === 1) {
     document.getElementById('displayFact').textContent = 'This is interesting fact number one: JavaScript was invented in 1995. Can you figure out why you got this specific fact?'
 } else if (user.length === 2) {
-        document.getElementById('displayFact').textContent = 'This is the second interesting fact'
+        document.getElementById('displayFact').textContent = 'This is the interesting fact number two: CSS was invented in 1996. Can you figure out why you got interesting fact number two?'
     } else if (user.length === 3) {
-        document.getElementById('displayFact').textContent = 'This is the third interesting fact'
+        document.getElementById('displayFact').textContent = 'This is the third interesting fact: Elephants can not jump. Can you figure out why you got interesting fact number three?'
     }
   } 
 
