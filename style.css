@@ -1,0 +1,29 @@
+@charset "utf-8";
+html {
+  font-size: 20px;
+}
+
+#nameSelection {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 100px;
+  
+}
+
+body {
+  background-color: lightblue;
+}
+
+#surpriseButton {
+  font-size: 20px;
+  background-color: yellow;
+}
+
+#surpriseButton:hover {
+  background-color: blue;
+  cursor: pointer;
+}
+
+#enterName {
+  font-size: 20px;
+}
