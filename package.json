@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,5 +11,8 @@
   },
   "keywords": [],
   "author": "lb224nj@student.lnu.se",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.4.2"
+  }
 }
