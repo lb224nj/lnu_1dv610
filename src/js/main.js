@@ -4,7 +4,7 @@ document.getElementById('surpriseButton').addEventListener('click', function (su
   const user = document.getElementById('enterName').value
   const angryEmoji = document.getElementById('angryEmoji')
   if (user === '') {
-    document.getElementById('displayFact').textContent = 'You did not enter a name. Therefore you do not get an intersting fact. Instead you get this:'
+    document.getElementById('displayFact').textContent = 'You did not enter a name. Therefore you do not get an interesting fact. Instead you get this:'
 
     angryEmoji.classList.remove('hidden')
   } else {
